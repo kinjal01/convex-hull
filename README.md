@@ -1,5 +1,5 @@
-# convex-hull-graham-scan
-This repository implements the famous Convex Hull Graham Scan Algorithm.
+# convex-hull
+This repository implements the famous Convex Hull Graham Scan, Jarvis March and Andrew algorithms.
 
 Steps to run:
 1. Execute "g++ driver.cpp"
